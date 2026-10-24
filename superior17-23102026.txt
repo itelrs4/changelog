@@ -1,0 +1,20 @@
+==========================
+        CHANGELOG
+==========================
+
+[ PERFORMANCE & POWER ]
+• S666LN: power: Enable ADPF hint sessions
+• S666LN: sepolicy: Allow power HAL to setsched for ADPF
+• S666LN: powerhint: Fix GpuPwrLevel
+• S666LN: rootdir: Drop sched_util_clamp_min override
+• S666LN: Kang pinner files for Android 16 from zuma
+• S666LN: Disable sf EGL image tracking
+
+[ UI ]
+• switch to Kawase2 render engine blur algorithm
+
+[ SELINUX ]
+• S666LN: sepolicy: Address libperfmgr denials
+• S666LN: sepolicy: Relabel camera props to vendor_mtk_camera_prop
+
+==========================
